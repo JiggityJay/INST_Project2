@@ -1,0 +1,1 @@
+{'Note Title': 'Python Dictonaries ', 'Note Text': 'It is possible to update a dictionary by using a .update command in order to add new entries'}

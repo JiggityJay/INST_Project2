@@ -1,0 +1,1 @@
+{'Note Title': 'Python Objects ', 'Note Text': 'By updating the attrabutes of objects, you can store information in a much more flexable manner'}

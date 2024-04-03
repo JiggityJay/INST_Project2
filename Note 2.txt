@@ -1,0 +1,1 @@
+{'Note Title': 'Python Lists ', 'Note Text': 'It is possible to update a list, which is very useful in order to iteravly create a listr. Stripping a string is also a useful way to parse information'}
